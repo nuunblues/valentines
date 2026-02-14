@@ -13,7 +13,7 @@ const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 // array of gifs - in order
 const gifs = ["assets/images/togepi-happy.gif", "assets/images/togepi-sad-1.gif", "assets/images/togepi-sad-2.gif", "assets/images/togepi-crying.gif"];
 // array of messages
-const buttonMessages = ["Are you sure??", "Pookie please", "Pookie PLEASE", "You can't do this to me!"];
+const buttonMessages = ["Wait are you sure??", "Pookie please", "Babe PLEASE", "You can't do this to me!","Brian Your being really mean right now!!","Im already your girlfriend this is rediculous!","Fine whatever, I guess you dont like me that much","please just say yes, I will cry!!"];
 
 // no button clicked
 noButton.addEventListener("click", () => {
